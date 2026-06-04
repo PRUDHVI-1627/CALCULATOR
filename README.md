@@ -4,6 +4,8 @@ A clean, glassmorphism-style calculator built with vanilla HTML, CSS, and JavaSc
 
 ## Preview
 
+<img width="1310" height="688" alt="Calculator Preview" src="https://github.com/user-attachments/assets/353aa2db-1a7d-44e0-8d3b-0a576e1d5a81" />
+
 Soft dusty rose & cream palette with frosted glass UI, subtle background blobs, and smooth button interactions.
 
 ## Files
